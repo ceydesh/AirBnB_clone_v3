@@ -1,5 +1,22 @@
-# AirBnB Clone - The Console
-The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
+# AirBnB Clone - Version 3
+
+<p align="center">
+    <img src="AirBnB_clone_v3.png"/>
+</p>
+
+## Description
+
+Project attempts to clone the AirBnB application and website, including the
+database, storage, RESTful API, Web Framework, and Front End.  Currently the
+application is designed to run with 2 storage engine models:
+
+* File Storage Engine:
+
+  * `/models/engine/file_storage.py`
+
+* Database Storage Engine:
+
+  * `/models/engine/db_storage.py`
 
 #### Functionalities of this command interpreter:
 * Create a new object (ex: a new User or a new Place)
@@ -154,9 +171,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+ABENEZER BAHERU - [Github](https://github.com/Abenezer-Baheru)
+OCHIENG' BOSTONE - [Github](https://github.com/BOSTONE069)
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
